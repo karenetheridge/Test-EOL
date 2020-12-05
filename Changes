@@ -1,6 +1,8 @@
 Revision history for Test-EOL
 
 {{$NEXT}}
+  - better matching on files, directories to be ignored (e.g. no longer
+    confuses directory "vincent" for "inc") - closes RT#133862, PR #1
 
 2.00      2017-05-03 22:38:59Z
   - Update documentation for starting point change in version 1.5
