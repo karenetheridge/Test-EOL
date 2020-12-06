@@ -8,7 +8,7 @@ Test::EOL - Check the correct line endings in your project
 
 =head1 VERSION
 
-version 2.00
+version 2.01
 
 =head1 SYNOPSIS
 
@@ -159,7 +159,7 @@ Tomas Doran (t0m) <bobtfish@bobtfish.net>
 
 =head1 CONTRIBUTORS
 
-=for stopwords Karen Etheridge Olivier Mengué Peter Rabbitson Florian Ragwitz Dagfinn Ilmari Mannsåker Arthur Axel 'fREW' Schmidt Kent Fredric
+=for stopwords Karen Etheridge Olivier Mengué Peter Rabbitson Florian Ragwitz Dagfinn Ilmari Mannsåker Arthur Axel 'fREW' Schmidt Father Chrysostomos Kent Fredric
 
 =over 4
 
@@ -186,6 +186,10 @@ Dagfinn Ilmari Mannsåker <ilmari@ilmari.org>
 =item *
 
 Arthur Axel 'fREW' Schmidt <frioux@gmail.com>
+
+=item *
+
+Father Chrysostomos <sprout@cpan.org>
 
 =item *
 
