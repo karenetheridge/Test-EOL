@@ -8,7 +8,7 @@ Test::EOL - Check the correct line endings in your project
 
 =head1 VERSION
 
-version 2.01
+version 2.02
 
 =head1 SYNOPSIS
 

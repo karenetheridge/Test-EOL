@@ -1,6 +1,6 @@
 Revision history for Test-EOL
 
-{{$NEXT}}
+2.02      2020-12-07 07:08:39Z
   - fix failing test on MSWin32
 
 2.01      2020-12-06 00:39:19Z
